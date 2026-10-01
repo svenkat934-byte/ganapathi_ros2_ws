@@ -1,0 +1,10 @@
+# goal 
+int64 target_position
+float64 delay
+---
+# Result
+int64 final_position
+string robot_state
+---
+# feedback
+int64 current_position

@@ -1,0 +1,9 @@
+# Goal
+int64 target_distance
+float64 speed
+---
+# Result
+int64 distance_travelled
+---
+# Feedback
+int64 current_distance

@@ -1,0 +1,11 @@
+# Goal
+int64 target_percentage
+float64 delay
+
+---
+# Result
+int64 final_percentage
+string message
+---
+# feedback
+int64 current_percentage
